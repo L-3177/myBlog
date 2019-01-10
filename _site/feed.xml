@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Actually, less is more!</description>
-    <link>http://0.0.0.0:8080/</link>
-    <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Jan 2019 20:49:44 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Jan 2019 20:49:44 +0800</lastBuildDate>
+    <link>http://0.0.0.0:8080/myblog/</link>
+    <atom:link href="http://0.0.0.0:8080/myblog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Jan 2019 00:00:17 +0800</pubDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:17 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;hello world!&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Jan 2019 19:41:01 +0800</pubDate>
-        <link>http://0.0.0.0:8080/2019/01/10/who-am-i/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2019/01/10/who-am-i/</guid>
+        <link>http://0.0.0.0:8080/myblog/2019/01/10/who-am-i/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/myblog/2019/01/10/who-am-i/</guid>
         
         <category>jekyll</category>
         
@@ -37,7 +37,7 @@
 
 &lt;h2 id=&quot;zhugeliang&quot;&gt;诫子书&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/styles/images/jiezishu.jpg&quot; alt=&quot;诫子书&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/myblog/styles/images/jiezishu.jpg&quot; alt=&quot;诫子书&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;诸葛亮&lt;/a&gt;&lt;/p&gt;
 
@@ -46,8 +46,8 @@
 
 </description>
         <pubDate>Thu, 10 Jan 2019 19:31:01 +0800</pubDate>
-        <link>http://0.0.0.0:8080/2019/01/10/hello-jekyll/</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2019/01/10/hello-jekyll/</guid>
+        <link>http://0.0.0.0:8080/myblog/2019/01/10/hello-jekyll/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/myblog/2019/01/10/hello-jekyll/</guid>
         
         <category>jekyllww</category>
         
