@@ -1,0 +1,29 @@
+# Site settings
+name: L-3177's blog
+email: 110112149@qq11.com
+author: L-3177
+url: ''
+resume_site: https://l-3177.github.io/myBlog/
+github: https://github.com/l-3177/
+baseurl: ""
+description: Actually, less is more!
+meta_description: 个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 11
+host: 0.0.0.0
+port: 8080
+plugins: [jekyll-paginate]
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: L-3177
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Actually, less is more!</description>
+    <link>http://0.0.0.0:8080/</link>
+    <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Jan 2019 20:49:44 +0800</pubDate>
+    <lastBuildDate>Thu, 10 Jan 2019 20:49:44 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>hello world!</title>
+        <description>&lt;!-- * content
+{:toc} --&gt;
+
+&lt;p&gt;hello world!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Jan 2019 19:41:01 +0800</pubDate>
+        <link>http://0.0.0.0:8080/2019/01/10/who-am-i/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019/01/10/who-am-i/</guid>
+        
+        <category>jekyll</category>
+        
+        
+        <category>jekylls</category>
+        
+      </item>
+    
+      <item>
+        <title>hello Jekyll!</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#zhugeliang&quot; id=&quot;markdown-toc-zhugeliang&quot;&gt;诫子书&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;First POST build by Jekyll.&lt;/p&gt;
+
+&lt;h2 id=&quot;zhugeliang&quot;&gt;诫子书&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/styles/images/jiezishu.jpg&quot; alt=&quot;诫子书&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;诸葛亮&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;夫君子之行，静以修身，俭以养德。非淡泊(澹泊)无以明志，非宁静无以致远。夫学须静也，才须学也。非学无以广才，非志无以成学。淫慢则不能励精，险躁则不能冶性。
+年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 10 Jan 2019 19:31:01 +0800</pubDate>
+        <link>http://0.0.0.0:8080/2019/01/10/hello-jekyll/</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019/01/10/hello-jekyll/</guid>
+        
+        <category>jekyllww</category>
+        
+        
+        <category>jekylls</category>
+        
+      </item>
+    
+  </channel>
+</rss>
